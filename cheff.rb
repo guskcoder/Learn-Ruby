@@ -7,5 +7,4 @@ talk2 = gets.chomp
 puts talk2
 
 puts "WHADDAYA MEAN #{talk2} ?!? YOU'RE FIRED!!"
-
-
+puts "Gustavo"
