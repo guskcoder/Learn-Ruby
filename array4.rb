@@ -1,3 +1,3 @@
-3.times do
+10.times do
   puts "Hip-Hop-Hooray!"
 end
