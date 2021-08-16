@@ -4,7 +4,7 @@ favorites.push("whiskey on kittens")
 
 puts favorites[0]
 puts favorites.last
-puts favorites.lenght
+puts favorites.length
 
 puts favorites.pop
 puts favorites
