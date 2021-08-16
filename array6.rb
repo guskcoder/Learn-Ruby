@@ -8,4 +8,4 @@ puts favorites.length
 
 puts favorites.pop
 puts favorites
-puts favorites.lenght
+puts favorites.length
