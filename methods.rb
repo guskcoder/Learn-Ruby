@@ -10,7 +10,7 @@ puts "0. "+match_1[0]
 puts "1. "+match_1[1]
 while true
   aswer = gets.chomp.downcase
-  if (answer == 0 || aswer == "1")
+  if (answer == "0" || answer == "1")
     match_3[0] = match_1[answer.to_i]
     break
   else
