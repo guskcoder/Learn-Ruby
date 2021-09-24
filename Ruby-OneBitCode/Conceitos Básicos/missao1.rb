@@ -1,7 +1,7 @@
 print "Digite seu Nome: "
 name = gets.chomp
 
-print "Digite sea Idade: "
+print "Digite sua Idade: "
 idade = gets.chomp.to_i
 
-puts "Hello, #{name} #{idade}!"
+puts "Esse é o #{name}, Ele tem #{idade} Anos!"
