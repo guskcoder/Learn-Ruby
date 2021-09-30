@@ -6,3 +6,5 @@ if day == 'Sunday'
 end
 
 puts "Lunch is #{lunch} today"
+
+puts d
