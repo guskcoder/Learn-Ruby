@@ -12,6 +12,7 @@ sleep 3
 cliente = clientes[id_do_cliente]
 
 if cliente != nil
+  puts
   puts "Nome: #{cliente[:nome]}"
   puts "Data de Cadastro: #{cliente[:data_de_cadastro]}"
   puts "Cidade: #{cliente[:cidade]}"
