@@ -2,7 +2,7 @@ require 'os'
 
 def my_os
   if OS.windows?
-  'Windows'
+    'Windows'
   elsif OS.linux?
     'Linux'
   else
