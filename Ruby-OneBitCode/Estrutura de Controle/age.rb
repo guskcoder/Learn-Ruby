@@ -21,5 +21,5 @@ loop do
     result = 'Opção Inválida'
   end
 
-  sytem "clear"
+  system "clear"
 end
